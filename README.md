@@ -99,6 +99,9 @@ ID: 1, Nombre: Ana Actualizada, Edad: 28
 Todas las operaciones SQLite completadas
 Se usó Contract como indica la guía
 ```
+### Comprobación
+<img width="1042" height="511" alt="image" src="https://github.com/user-attachments/assets/e60cd47f-e23b-4eda-a429-500ce1e448af" />
+
 
 ## Conceptos Clave Implementados
 1. Patrón Contract: Centraliza nombres de tablas y columnas
